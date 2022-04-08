@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "isRead": false,
+        "title": "Harry Poter",
+        "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people)."
+    },
+    {
+        "id": 2,
+        "isRead": false,
+        "title": "The Great Gatsby",
+        "description": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan."
+    },
+    {
+        "id": 3,
+        "isRead": false,
+        "title": "Rich dad Poor dad",
+        "description": "Rich Dad Poor Dad is a 1997 book written by Robert T. Kiyosaki and Sharon Lechter. It advocates the importance of financial literacy (financial education), financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence (financial IQ)."
+    },
+    {
+        "id": 4,
+        "isRead": false,
+        "title": "The richest man in Babylon",
+        "description": "The Richest Man in Babylon is a 1926 book by George S. Clason that dispenses financial advice through a collection of parables set 4,000 years ago in ancient Babylon. The book remains in print almost a century after the parables were originally published, and is regarded as a classic of personal financial advice."
+    },
+    {
+        "id": 5,
+        "isRead": false,
+        "title": "Clean Code",
+        "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way."
+    }
+]

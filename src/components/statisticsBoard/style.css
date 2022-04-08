@@ -1,0 +1,13 @@
+.statistic {
+    margin-left: 60px;
+    font-size: 110%;
+    font-weight: 600;
+}
+
+.green {
+    color: green;
+}
+
+.darkred {
+    color: darkred;
+}

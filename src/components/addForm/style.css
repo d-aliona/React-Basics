@@ -1,0 +1,50 @@
+.addBook {
+    margin: 20px 56px;
+    position: relative;
+}
+
+.addBook_button {
+    position: absolute;
+    top: 0;
+    right: -26px;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 90%;
+    font-weight: 700;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    text-align: end;
+}
+
+.addBook_title {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.addBook_description {
+    width: 70%;
+    padding: 10px;
+}
+
+.removeAll_button {
+    position: absolute;
+    bottom: 0;
+    right: -26px;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 90%;
+    font-weight: 700;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(219, 68, 68);
+    color: white;
+    text-align: end;
+}
